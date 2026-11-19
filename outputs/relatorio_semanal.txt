@@ -1,0 +1,13 @@
+*RELATORIO SEMANAL DE PERFORMANCE — META ADS*
+*Conta:* Conta Demo — E-Commerce & Negocios Locais
+
+*1. RESUMO CONSOLIDADO*
+- Investimento Total: R$ 2,840.50
+- Faturamento Atribuido: R$ 18,160.00 (ROAS Global: 6.39x)
+- Impressoes / Cliques: 160,500 / 4,255 (CTR: 2.65%)
+- Compras Finalizadas / CPA Medio: 81 / R$ 35.07
+
+*2. DETALHAMENTO POR CAMPANHA*
+- [VENDAS] Catalogo Moda Praia — Demo: Gasto R$ 1480.50 | Receita R$ 7820.00 | ROAS 5.28x | CTR 2.60%
+- [REMARKETING] Carrinho Abandonado 7D — Demo: Gasto R$ 620.00 | Receita R$ 6380.00 | ROAS 10.29x | CTR 3.68%
+- [MENSAGENS] Atendimento Local WhatsApp — Demo: Gasto R$ 740.00 | Receita R$ 3960.00 | ROAS 5.35x | CTR 2.09%

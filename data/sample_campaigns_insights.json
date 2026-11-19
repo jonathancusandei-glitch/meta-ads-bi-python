@@ -1,0 +1,45 @@
+{
+  "account_name": "Conta Demo — E-Commerce & Negocios Locais",
+  "period": "Ultimos 14 dias (Dados Sinteticos)",
+  "campaigns": [
+    {
+      "campaign_name": "[VENDAS] Catalogo Moda Praia — Demo",
+      "objective": "OUTCOME_SALES",
+      "impressions": 84200,
+      "reach": 51400,
+      "clicks": 2190,
+      "spend": 1480.5,
+      "add_to_cart": 164,
+      "initiate_checkout": 78,
+      "purchases": 34,
+      "revenue": 7820.0,
+      "conversations_started": 0
+    },
+    {
+      "campaign_name": "[REMARKETING] Carrinho Abandonado 7D — Demo",
+      "objective": "OUTCOME_SALES",
+      "impressions": 29500,
+      "reach": 14200,
+      "clicks": 1085,
+      "spend": 620.0,
+      "add_to_cart": 92,
+      "initiate_checkout": 56,
+      "purchases": 29,
+      "revenue": 6380.0,
+      "conversations_started": 0
+    },
+    {
+      "campaign_name": "[MENSAGENS] Atendimento Local WhatsApp — Demo",
+      "objective": "OUTCOME_ENGAGEMENT",
+      "impressions": 46800,
+      "reach": 32900,
+      "clicks": 980,
+      "spend": 740.0,
+      "add_to_cart": 0,
+      "initiate_checkout": 0,
+      "purchases": 18,
+      "revenue": 3960.0,
+      "conversations_started": 148
+    }
+  ]
+}
